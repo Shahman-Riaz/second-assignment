@@ -1,0 +1,65 @@
+body {
+    color:#494b67;
+}
+
+header{
+   background-color: #fceae85e;
+}
+.button-design-color {
+    background-color: #4813e9;
+    color: white;
+    font-weight: 600;
+}
+.button-design-color:hover {
+  color: rgb(255, 255, 255);
+  background-color: #340ab4;
+}
+.tomato-color {
+    color: tomato;
+}
+.nav-item:hover {
+    color: tomato!important;
+    text-decoration: underline;
+}
+.zoom-image {
+    background-color: rgba(221, 210, 210, 0.849);
+    border-radius: 4%;
+    padding: 10%;
+    transition: transform .5s ease;
+}
+.rotate-image {
+       transition: transform 1s ease;
+}
+.rotate-image:hover {
+    transform: rotate(6deg);
+}
+.zoom-image:hover {
+    transform: scale(1.04, 1.04);
+}
+.boot-card {
+    border: 28px solid white;
+    border-radius: 4%;
+    
+}
+.sports-shoes-card-footer {
+    background-color: white;
+    border: none;
+}
+.stylish-font{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+.border-radius {
+    border-radius:10px ;
+}
+.social-media:hover {
+    color: black;
+}
+ @media screen and (max-width:767px) {
+    .hero-sec-flex {
+        flex-direction: column-reverse;
+    }
+    .catagory-tag {
+        text-align: center;
+    }
+}   
