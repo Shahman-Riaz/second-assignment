@@ -60,7 +60,7 @@ header{
  }
  #fb:hover {
     color: #4267B2;
-    font-size: 48px;
+    font-size: 120%;
 }
  #ig  {
      color:#3a3a3f69;
@@ -69,7 +69,7 @@ header{
  }
  #ig:hover  {
     color: #E1306C;
-    font-size: 48px;
+    font-size: 120%;
 }
  #yt {
      color:#3a3a3f69;
@@ -78,7 +78,7 @@ header{
  }
  #yt:hover {
     color: #FF0000;
-     font-size: 48px;
+    font-size: 120%;
 }
  #tt {
      color:#3a3a3f69;
@@ -87,7 +87,7 @@ header{
  }
  #tt:hover {
     color: #1DA1F2;
-    font-size: 48px;
+    font-size: 120%;
      
 }
 
