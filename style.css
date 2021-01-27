@@ -52,21 +52,44 @@ header{
 .border-radius {
     border-radius:10px ;
 }
-.fab:hover {
-    color: black;
-}
+ 
  #fb {
-     color: #4267B2;
+     color:#3a3a3f69;
+     transition: font-size .3s ease;
+     padding: 1px;
  }
+ #fb:hover {
+    color: #4267B2;
+    font-size: 48px;
+}
  #ig  {
-     color: #E1306C;
+     color:#3a3a3f69;
+     transition: font-size .3s ease;
+     padding: 1px;
  }
+ #ig:hover  {
+    color: #E1306C;
+    font-size: 48px;
+}
  #yt {
-     color: #FF0000;
+     color:#3a3a3f69;
+     transition: font-size .3s ease;
+     padding: 1px;
  }
+ #yt:hover {
+    color: #FF0000;
+     font-size: 48px;
+}
  #tt {
-     color: #1DA1F2;
+     color:#3a3a3f69;
+     transition: font-size .3s ease;
+     padding: 1px;
  }
+ #tt:hover {
+    color: #1DA1F2;
+    font-size: 48px;
+     
+}
 
 textarea {
     resize: none;
