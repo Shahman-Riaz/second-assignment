@@ -17,9 +17,12 @@ header{
 .tomato-color {
     color: tomato;
 }
+.nav-item {
+    transition: all .5s ease;
+}
 .nav-item:hover {
     color: tomato !important;
-    text-decoration: underline;
+    text-decoration:underline rgba(248, 44, 8, 0.055);
 }
 .zoom-image {
     background-color: rgba(221, 210, 210, 0.849);
