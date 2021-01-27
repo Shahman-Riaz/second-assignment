@@ -52,9 +52,22 @@ header{
 .border-radius {
     border-radius:10px ;
 }
-.social-media {
+.fab:hover {
     color: black;
 }
+ #fb {
+     color: #4267B2;
+ }
+ #ig  {
+     color: #E1306C;
+ }
+ #yt {
+     color: #FF0000;
+ }
+ #tt {
+     color: #1DA1F2;
+ }
+
 textarea {
     resize: none;
 }
