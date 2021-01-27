@@ -55,6 +55,9 @@ header{
 .social-media {
     color: black;
 }
+textarea {
+    resize: none;
+}
  
  @media screen and (max-width:767px) {
     .hero-sec-flex {
