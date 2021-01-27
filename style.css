@@ -18,7 +18,7 @@ header{
     color: tomato;
 }
 .nav-item:hover {
-    color: tomato!important;
+    color: tomato !important;
     text-decoration: underline;
 }
 .zoom-image {
@@ -34,7 +34,7 @@ header{
     transform: rotate(6deg);
 }
 .zoom-image:hover {
-    transform: scale(1.04, 1.04);
+    transform: scale(1.07, 1.07);
 }
 .boot-card {
     border: 28px solid white;
@@ -52,9 +52,10 @@ header{
 .border-radius {
     border-radius:10px ;
 }
-.social-media:hover {
+.social-media {
     color: black;
 }
+ 
  @media screen and (max-width:767px) {
     .hero-sec-flex {
         flex-direction: column-reverse;
@@ -62,4 +63,4 @@ header{
     .catagory-tag {
         text-align: center;
     }
-}   
+}  
